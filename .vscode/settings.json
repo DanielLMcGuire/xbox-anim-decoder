@@ -1,0 +1,8 @@
+{
+    "python.analysis.extraPaths": [
+        "./src/common",
+        "./src/primitives",
+        "./src/logo_mesh",
+        "./src/animation"
+    ]
+}
