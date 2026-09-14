@@ -1,0 +1,2 @@
+thirdparty/**/* linguist-detectable=false
+src/**/*.h linguist-detectable=false
